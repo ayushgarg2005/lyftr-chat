@@ -1,0 +1,2 @@
+# keep shell scripts with Unix line endings, otherwise they break inside Linux containers
+*.sh text eol=lf
